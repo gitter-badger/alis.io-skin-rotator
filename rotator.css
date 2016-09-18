@@ -1,0 +1,28 @@
+#helloContainer {
+    margin-left:-410px
+}
+
+#skinrotator {
+    display:inline-block
+}
+
+#mainPanel {
+    max-width:356px!important;
+	margin-right:10px
+}
+
+.card.card-nav-tabs.skin {
+    width:255px
+}
+
+li.active.skins {
+    width:100%;
+    text-align:center;
+    text-transform:uppercase
+}
+
+#version {
+	font-size:10px;
+	float:right;
+	color:rgb(90, 90, 90)
+}
